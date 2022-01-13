@@ -11,8 +11,6 @@ Este pequeño texto lo podemos introducir en cualquier server script de un servi
 Creamos un webhook en un canal propio de Discord
 Modificamos webhook="https://discordapp.com/api/webhooks/" y ponemos nuestro webhook de Discord
 <br>
-Introducimos nuestro backdoor en un server script de un servidor FiveM
-<br>
 
 ```
 # ¡PARA EJECUTAR! 🚀
