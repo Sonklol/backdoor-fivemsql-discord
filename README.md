@@ -6,6 +6,7 @@ Este pequeño texto lo podemos introducir en cualquier server script de un servi
 ## Requisitos 📚
 - FiveM Server
 - MYSQL Database
+- Discord Webhook
 
 ## ¿CÓMO USAR? 📚
 Creamos un webhook en un canal propio de Discord
