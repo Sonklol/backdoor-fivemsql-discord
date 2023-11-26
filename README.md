@@ -1,5 +1,5 @@
 ## BACKDOOR FiveM SQL - Discord
-Este pequeño texto lo podemos introducir en cualquier server script de un servidor FiveM, es un backdoor (puerta trasera) para "hackear" una base de datos de un servidor en red.
+Este pequeño texto lo podemos introducir en cualquier server (CUIDADO! USO RESPONSABLE) script de un servidor FiveM, es un backdoor (puerta trasera) para "hackear" una base de datos de un servidor en red.
 <br>
 
 
